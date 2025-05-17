@@ -1,0 +1,7 @@
+path: /home/featurize/work/2024/20220917/datasets/plate_images/ # dataset root dir
+train: images # train images (relative to 'path') 4 images
+val: images # val images (relative to 'path') 4 images
+
+# Classes for DOTA 1.0
+names:
+  0: ³µÅÆ
